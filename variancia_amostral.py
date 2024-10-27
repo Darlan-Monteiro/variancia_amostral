@@ -28,6 +28,7 @@ total_quadrado = diferenca_quadrado.sum() # sum para somar todos os valores ao q
 
 variancia_amostral = total_quadrado/(qtde_itens_lista - 1) # aqui é a fórmula estátistica da variância amostral. OBS: Em caso de dúvidas, procurar exemplo no google.
 
+
 raiz_quadrada = math.sqrt(variancia_amostral) # math.sqrt para descobrir a raiz quadrada da variança
 
 
