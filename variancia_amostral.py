@@ -4,6 +4,7 @@ import statistics
 import math
 from IPython.display import display
 
+#teste
 # Uma série de TV teve 10 episódios com as seguintes durações, em minutos: 35, 34, 26, 32, 37, 28, 27, 33, 36, 32.
 # Qual foi a duração média de cada episódio?
 
