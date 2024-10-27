@@ -31,7 +31,6 @@ variancia_amostral = total_quadrado/(qtde_itens_lista - 1) # aqui é a fórmula 
 
 raiz_quadrada = math.sqrt(variancia_amostral) # math.sqrt para descobrir a raiz quadrada da variança
 
-
 print(f'A mediana de minutos assistidos: {np.median(lista_minutos_ep)}')
 print(f'O total de minutos assistidos: {total_minutos_assistidos}')
 print(f'A média de minutos assistidos: {media_minutos_ep}')
